@@ -1,8 +1,8 @@
 # Beer Is Great
 
 ## Brief
-> Building on skills learned working with APIs, this project uses the Punk API (linked below) to create a library of filtered + paginated beers.
-> Shout out to Brewdog.
+- Building on skills learned working with APIs, this project uses the Punk API (linked below) to create a library of filtered + paginated beers.
+- Shout out to Brewdog.
 
 ## Links
 - API: https://punkapi.com/documentation/v2
@@ -15,4 +15,7 @@
 - Dynamic html rendering
 - Pagination
 - Use of switch for both ABV and IBU filters
+
+## Future Edits
+- Revamp styling
 
